@@ -11,8 +11,23 @@ Voter participation is often uneven, with some areas consistently seeing lower t
 ## Goal and Objective
 The goal of this project is to prepare and analyze voter turnout data, with the goal of predicting future turnout patterns.
 
-Understand historical voter turnout trends across U.S. counties from 2000 to 2020.
-Identify key factors and socio-economic indicators that influence voter turnout.
-Build a data pipeline that supports the extraction, transformation, and analysis of voter turnout data.
-Create visualizations to help communicate these insights and trends.
-Use predictive modeling techniques to forecast turnout and highlight areas with potential low participation, aiding in the development of targeted outreach strategies.
+- Understand historical voter turnout trends across U.S. counties from 2000 to 2020.
+- Identify key factors and socio-economic indicators that influence voter turnout.
+- Build a data pipeline that supports the extraction, transformation, and analysis of voter turnout data.
+- Create visualizations to help communicate these insights and trends.
+- Use predictive modeling techniques to forecast turnout and highlight areas with potential low participation, aiding in the development of targeted outreach strategies.
+
+## Resources
+
+### Datasets:
+- Voter Turnout Dataset (Harvard Dataverse)
+- U.S. Census Bureau Dataset
+
+### Data Engineering Tools:
+- ArcGIS Notebook
+- Jupyter Notebook
+- Pandas
+- PostgreSQL
+
+### Data Visualization Tools:
+- ArcGIS Pro
